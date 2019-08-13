@@ -1,0 +1,4 @@
+{
+    "private": true,
+    "workspaces": ["gatsby-theme-events-typescript", "site"]
+}
