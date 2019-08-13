@@ -1,7 +1,6 @@
 # gatsby-theme-events-typescript
 
 This is a starter kit for Gatsby themes written in TypeScript. It includes the bare essentials for you to get started.
-[demo site](https://twentynineteen-gatsby-theme.netlify.com).
 
 ## Features
 
