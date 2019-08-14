@@ -1,8 +1,11 @@
 {
     "name": "gatsby-theme-events-typescript",
-    "version": "0.0.1",
-    "author": "Vitaly Goncharenko",
+    "description": "This is a starter kit for GatsbyJS Themes written in TypeScript. It includes the bare essentials for you to get started.",
+    "version": "0.0.2",
     "main": "index.js",
+    "repository": "github:goncharenko/gatsby-theme-events-typescript",
+    "keywords": ["typescript", "gatsbyjs", "gatsby-themes"],
+    "author": "Vitaly Goncharenko",
     "license": "MIT",
     "scripts": {
         "build": "gatsby build",
@@ -41,5 +44,9 @@
         "gatsby-source-filesystem": "^2.1.9",
         "gatsby-transformer-yaml": "^2.2.4",
         "theme-ui": "^0.2.33"
-    }
+    },
+    "bugs": {
+        "url": "https://github.com/goncharenko/gatsby-theme-events-typescript/issues"
+    },
+    "homepage": "https://github.com/goncharenko/gatsby-theme-events-typescript#readme"
 }
