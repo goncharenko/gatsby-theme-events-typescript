@@ -1,6 +1,8 @@
 # gatsby-theme-events-typescript
 
-This is a starter kit for Gatsby themes written in TypeScript. It includes the bare essentials for you to get started. [Demo Site](https://gatsby-theme-events-typescript.goncharenko.now.sh)
+This is a starter kit for Gatsby themes written in TypeScript. It includes the bare essentials for you to get started. 
+
+[Demo Site](https://gatsby-theme-events-typescript.goncharenko.now.sh)
 
 ## Features
 
@@ -28,3 +30,4 @@ yarn workspace site develop
 ```
 
 If this is your first time using Yarn workspaces, [check out the docs](https://yarnpkg.com/lang/en/docs/workspaces/).
+
