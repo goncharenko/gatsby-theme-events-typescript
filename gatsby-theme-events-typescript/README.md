@@ -4,10 +4,10 @@ This is a starter kit for Gatsby themes written in TypeScript. It includes the b
 
 ## Features
 
-- TypeScript
-- ESLint (with custom ESLint rules)
-- Basic theme structure
-- Styling with Theme UI and [emotion](https://emotion.sh/)
+-   TypeScript
+-   ESLint (with custom ESLint rules)
+-   Basic theme structure
+-   Styling with Theme UI and [emotion](https://emotion.sh/)
 
 ## How to use this repo
 
@@ -26,3 +26,7 @@ yarn workspace site develop
 ```
 
 If this is your first time using Yarn workspaces, [check out the docs](https://yarnpkg.com/lang/en/docs/workspaces/).
+
+## Credits
+
+Built with [Gatsby](https://www.gatsbyjs.org/) - the blazing-fast static site generator for [React](https://facebook.github.io/react/).

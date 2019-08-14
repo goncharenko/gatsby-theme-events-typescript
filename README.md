@@ -28,3 +28,7 @@ yarn workspace site develop
 ```
 
 If this is your first time using Yarn workspaces, [check out the docs](https://yarnpkg.com/lang/en/docs/workspaces/).
+
+## Credits
+
+Built with [Gatsby](https://www.gatsbyjs.org/) - the blazing-fast static site generator for [React](https://facebook.github.io/react/).
