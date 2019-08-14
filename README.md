@@ -2,6 +2,8 @@
 
 This is a starter kit for Gatsby themes written in TypeScript. It includes the bare essentials for you to get started.
 
+[Demo Site](https://gatsby-theme-events-typescript.goncharenko.now.sh)
+
 ## Features
 
 - TypeScript
