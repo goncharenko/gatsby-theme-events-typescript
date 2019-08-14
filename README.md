@@ -23,6 +23,8 @@ yarn
 
 # Start the site on http://localhost:8000
 yarn workspace site develop
+
+# Open http://localhost:8000/events
 ```
 
 If this is your first time using Yarn workspaces, [check out the docs](https://yarnpkg.com/lang/en/docs/workspaces/).
