@@ -40,7 +40,7 @@
     "dependencies": {
         "@emotion/core": "^10.0.16",
         "@emotion/styled": "^10.0.15",
-        "@mdx-js/react": "^1.4.0",
+        "@mdx-js/react": "^1.4.5",
         "gatsby-plugin-theme-ui": "^0.2.34",
         "gatsby-source-filesystem": "^2.1.9",
         "gatsby-transformer-yaml": "^2.2.7",
