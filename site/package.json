@@ -11,7 +11,7 @@
     "dependencies": {
         "gatsby": "^2.15.13",
         "gatsby-theme-events-typescript": "*",
-        "gatsby-plugin-typescript": "^2.1.7",
+        "gatsby-plugin-typescript": "^2.1.8",
         "react": "^16.9.0",
         "react-dom": "^16.9.0"
     }
