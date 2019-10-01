@@ -27,15 +27,15 @@
         "@typescript-eslint/eslint-plugin": "^2.2.0",
         "@typescript-eslint/parser": "^2.2.0",
         "eslint": "^6.3.0",
-        "eslint-config-prettier": "^6.2.0",
+        "eslint-config-prettier": "^6.3.0",
         "eslint-plugin-prettier": "^3.1.1",
-        "eslint-plugin-react": "^7.14.3",
+        "eslint-plugin-react": "^7.15.0",
         "gatsby": "^2.15.13",
         "gatsby-plugin-typescript": "^2.1.7",
         "prettier": "^1.18.2",
         "react": "^16.9.0",
         "react-dom": "^16.9.0",
-        "typescript": "^3.6.2"
+        "typescript": "^3.6.3"
     },
     "dependencies": {
         "@emotion/core": "^10.0.16",
@@ -44,7 +44,7 @@
         "gatsby-plugin-theme-ui": "^0.2.34",
         "gatsby-source-filesystem": "^2.1.22",
         "gatsby-transformer-yaml": "^2.2.9",
-        "theme-ui": "^0.2.41"
+        "theme-ui": "^0.2.43"
     },
     "bugs": {
         "url": "https://github.com/goncharenko/gatsby-theme-events-typescript/issues"
