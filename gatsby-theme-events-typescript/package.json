@@ -29,7 +29,7 @@
         "eslint": "^6.5.1",
         "eslint-config-prettier": "^6.3.0",
         "eslint-plugin-prettier": "^3.1.1",
-        "eslint-plugin-react": "^7.15.0",
+        "eslint-plugin-react": "^7.16.0",
         "gatsby": "^2.15.28",
         "gatsby-plugin-typescript": "^2.1.11",
         "prettier": "^1.18.2",
