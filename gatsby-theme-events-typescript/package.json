@@ -43,7 +43,7 @@
         "@mdx-js/react": "^1.4.5",
         "gatsby-plugin-theme-ui": "^0.2.43",
         "gatsby-source-filesystem": "^2.1.22",
-        "gatsby-transformer-yaml": "^2.2.9",
+        "gatsby-transformer-yaml": "^2.2.15",
         "theme-ui": "^0.2.43"
     },
     "bugs": {
