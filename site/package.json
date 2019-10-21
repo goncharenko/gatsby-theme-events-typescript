@@ -9,7 +9,7 @@
         "clean": "gatsby clean"
     },
     "dependencies": {
-        "gatsby": "^2.15.28",
+        "gatsby": "^2.17.0",
         "gatsby-theme-events-typescript": "*",
         "gatsby-plugin-typescript": "^2.1.11",
         "react": "^16.9.0",
