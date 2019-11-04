@@ -35,7 +35,7 @@
         "prettier": "^1.18.2",
         "react": "^16.9.0",
         "react-dom": "^16.10.2",
-        "typescript": "^3.6.3"
+        "typescript": "^3.6.4"
     },
     "dependencies": {
         "@emotion/core": "^10.0.16",
