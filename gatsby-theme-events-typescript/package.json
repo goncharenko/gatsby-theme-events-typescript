@@ -18,7 +18,7 @@
         "gatsby": "^2.14.0",
         "gatsby-plugin-typescript": "^2.1.15",
         "react": "^16.11.0",
-        "react-dom": "^16.10.2"
+        "react-dom": "^16.11.0"
     },
     "devDependencies": {
         "@babel/core": "^7.6.4",
@@ -34,7 +34,7 @@
         "gatsby-plugin-typescript": "^2.1.15",
         "prettier": "^1.18.2",
         "react": "^16.11.0",
-        "react-dom": "^16.10.2",
+        "react-dom": "^16.11.0",
         "typescript": "^3.6.4"
     },
     "dependencies": {
