@@ -42,7 +42,7 @@
         "@emotion/styled": "^10.0.23",
         "@mdx-js/react": "^1.5.1",
         "gatsby-plugin-theme-ui": "^0.2.43",
-        "gatsby-source-filesystem": "^2.1.35",
+        "gatsby-source-filesystem": "^2.1.38",
         "gatsby-transformer-yaml": "^2.2.15",
         "theme-ui": "^0.2.46"
     },
