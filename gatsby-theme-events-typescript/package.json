@@ -44,7 +44,7 @@
         "gatsby-plugin-theme-ui": "^0.2.43",
         "gatsby-source-filesystem": "^2.1.40",
         "gatsby-transformer-yaml": "^2.2.18",
-        "theme-ui": "^0.2.46"
+        "theme-ui": "^0.2.49"
     },
     "bugs": {
         "url": "https://github.com/goncharenko/gatsby-theme-events-typescript/issues"
