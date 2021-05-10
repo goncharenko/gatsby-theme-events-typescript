@@ -5999,10 +5999,10 @@ gatsby-plugin-page-creator@^2.3.25:
     lodash "^4.17.15"
     slugify "^1.4.4"
 
-gatsby-plugin-theme-ui@^0.2.43:
-  version "0.2.43"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-theme-ui/-/gatsby-plugin-theme-ui-0.2.43.tgz#a2baa2bdba1bd923edeb63f1ebdf48c36b5c63ef"
-  integrity sha512-rBQ5vlTSeuUuv929s5k6VUit7k/VXqZOFxd5FlMyR9DCo87zqEJhQ0sobkLrfhAiAo80TUyQEEA0GbLZtrb6pA==
+gatsby-plugin-theme-ui@^0.8.4:
+  version "0.8.4"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-theme-ui/-/gatsby-plugin-theme-ui-0.8.4.tgz#5763a2fbf4340b8f7cb06cc2591f6fe9a2fb8d13"
+  integrity sha512-rvCpanIlr8R18QhhNtyrv2SYgi7fo0gvXlzGIK6Hwa9QeADxoV0BZC1cz+ei7rJOpSE1/E2fZKHKU98WLmub5w==
 
 gatsby-plugin-typescript@^2.1.15, gatsby-plugin-typescript@^2.4.18:
   version "2.4.18"
